@@ -1,9 +1,9 @@
 Olá, sou Mateus Batista
 
 - 🔭 Hoje Trabalho com Front-End
-- 🌱 Estudando Python e TypeScript
-- 💬 Pergunte-me sobre HTML, CSS, JavaScript, Python, Php ...
-- 📫 contacte-me no email: lisboa.codes@gmail.com
+- 🌱 Estudando 2º período ADS (Estácio de Sá) 
+- 💬 Pergunte-me algo sobre HTML, CSS, JavaScript, Python, Php, Banco de dados...
+- 📫 Contate-me no email: lisboa.codes@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
