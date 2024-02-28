@@ -1,7 +1,7 @@
 Olá, sou Rafael Lisboa.
+Aqui é onde vou compartilhar minhas gambiarras com vocês.
 
-- 🔭 Hoje Trabalho com Front-End
-- 🌱 Estudando 2º período ADS (Estácio de Sá) 
+Duvidas?
 - 💬 Pergunte-me algo sobre HTML, CSS, JavaScript, Python, Php, Banco de dados...
 - 📫 Contate-me no email: lisboa.codes@gmail.com
 
